@@ -1,4 +1,4 @@
-# Hola! 👋 mi nombre es Matias 
+# Hola 👋, mi nombre es Matias 
 
 ## Quien soy?
 Soy un **Programador Fullstack** orientado al diseño **Front-end**
