@@ -7,6 +7,8 @@ Soy un **Programador Fullstack** con una sólida base en desarrollo web y un com
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador.
 
 ## Qué tecnologías uso?
+· HTML
+· CSS
 · JavaScript
 · React
 · Node
