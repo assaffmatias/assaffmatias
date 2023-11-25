@@ -1,5 +1,7 @@
-## 👋 Hola! Mi nombre es Matias 
+# Hola! 👋 mi nombre es Matias 
 
+## Quien soy?
+Soy un **Programador Fullstack** orientado al diseño **Front-end**
 <!--
 **assaffmatias/assaffmatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
