@@ -20,6 +20,12 @@ Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formaci
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" height="40" />
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" height="20" /> Proyectos
+## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA5NTkyODcsIm5iZiI6MTcwMDk1ODk4NywicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI2VDAwMzYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlMWFiY2NhMzlkOTQyMmM2ZWQyYzA1ZTM3NDI2ZDUzYTI1OTcyZjI2MjIxMDIxYzY1MGI0YTBmN2U4MzE3YzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d8_BYZYvBzDEDgN0mndJgVh1gb9G7qnTLBbw_HLFMrY" width="30" height="30" /> Proyectos
 **Proyecto individual Henry Bootcamp**
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30" /> Contacto
+<a href="https://www.linkedin.com/in/assaffmatias/" target="_blank" rel="noopener noreferrer">
+  <img src="https://freelogopng.com/images/all_img/1656994883linkedin-logo-transparent.png" width="40" height="40" />
+</a>
+<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="40" height="40" />
 
