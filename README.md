@@ -1,3 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/assaffmatias/assaffmatias/edit/main/name.svg" alt="Matias Assaff" />
-</h1>
+<p align="center">
+  <img src="https://github.com/assaffmatias/assaffmatias/blob/main/name.svg" alt="Matias Assaff" />
+</p>
