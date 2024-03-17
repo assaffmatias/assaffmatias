@@ -1,4 +1,4 @@
-# <>Hi I'm Matias</> 👋
+# Hi I'm Matias 👋
 
 <h3>Things I code with</h3>
 <p>
