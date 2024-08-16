@@ -1,6 +1,6 @@
 # Hi I'm Matias 👋
 
-<p>I'm a Fullstack Web Developer. I spend my days (and often nights) painting the canvas of the internet with projects and lines of code, turning zeros and ones into engaging and intuitive web experiences. I love to investigate, solve problems, learn from others and teach, that is why in me you will find a developer with conflict resolution skills, willing to listen to ideas and contribute all my knowledge.</p>
+<p>A Front-End and App Developer. I spend my days (and often nights) painting the canvas of the internet with projects and lines of code, turning zeros and ones into engaging and intuitive web experiences. I love to investigate, solve problems, learn from others and teach, that is why in me you will find a developer with conflict resolution skills, willing to listen to ideas and contribute all my knowledge.</p>
 
 <h3>Things I code with</h3>
 <p>
