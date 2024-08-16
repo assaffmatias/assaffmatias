@@ -19,7 +19,7 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://assaffmatias.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=Packt&logoColor=white" /></a>
+<p><a href="https://assaffmatias.vercel.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=SmugMug&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/assaffmatias/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:matias.assaff98@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-005FF9.svg?&style=for-the-badge&logo=Mail.ru&logoColor=white" /></a> 
 </p>
