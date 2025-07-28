@@ -6,7 +6,7 @@ I spend my days (and often my nights) painting the canvas of the internet with p
 
 These days, I'm a Front-End developer at [Bosquestudio](https://bosquestudio.cl/).
 
-#### 📫 How to reach me: matias.assaff98@gmail.com
+#### 📫 How to reach me: assaff.developer@gmail.com
 
 <!--
 **seanehalpin/seanehalpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
