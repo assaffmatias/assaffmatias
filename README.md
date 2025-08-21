@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Matias
-
-I'm a Front-End & App Developer.
-
-I spend my days (and often my nights) painting the canvas of the internet with projects and lines of code, turning zeros and ones into engaging, user-centric digital experiences.
-
-These days, I'm a Front-End developer at [Bosquestudio](https://bosquestudio.cl/).
+Front-End Developer.
 
 #### 📫 How to reach me: matias.assaff98@gmail.com
 
